@@ -42,7 +42,7 @@ a:hover {
   color: gray;
 }
 a.active {
-  color: red;
+  color: #42acf9;
 }
 `
 export default function NavBar() {
